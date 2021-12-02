@@ -1,0 +1,17 @@
+
+
+          ProductName
+
+                
+          ProductPrice
+               
+
+        ArticleNumber
+        
+        ProductPrice
+
+        qty
+
+        TotalProductPrice
+
+        totalPrice
